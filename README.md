@@ -1,9 +1,6 @@
 <h4 align="left">Hi 👋! My name is Ferras Ibrahim, and I'm a Fontend & Wordpress developer from Algeria. I'm a hardworking person who loves coding professional websites and helping people around the globe. I am a person looking for perfection, so let me tell you that I won't send you the order unless it's perfect for you. I respond quickly and am friendly because I truly believe communication is really important. Feel free to contact me at any time! I will gladly help you achieve any result you'd like!</h4>
 
 ###
-![Working late](https://github.com/user-attachments/assets/25e13862-d300-4b70-b2aa-afc8cddf43e2)
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
@@ -47,11 +44,5 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/IbrahimFrs/IbrahimFrs/output/snake.svg" alt="Snake animation" />
 
 ###
