@@ -3,8 +3,6 @@
 ###
 ![Working late](https://github.com/user-attachments/assets/25e13862-d300-4b70-b2aa-afc8cddf43e2)
 
-
-
 ###
 
 <div align="left">
